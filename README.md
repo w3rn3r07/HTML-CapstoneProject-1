@@ -12,7 +12,7 @@ Project Requirements:
 3. Add a footer element with your name and any copyright information or other disclaimers.
 
 To view the completed portfolio website, visit the GitHub Pages link:
-https://github.com/w3rn3r07/HTML-CapstoneProject-1/deployments/github-pages
+https://w3rn3r07.github.io/HTML-CapstoneProject-1/
 
 In future versions of this project, I plan to:
 1)Add CSS styling to enhance the appearance of the website.
